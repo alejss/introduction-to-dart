@@ -2,7 +2,6 @@
 
 #### Section 1
 - Hello World
-- Keywords
 - Data Types:
 	- Numbers
 	- Strings
