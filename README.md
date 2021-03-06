@@ -7,5 +7,6 @@
 	- Numbers
 	- Strings
 	- Booleans
+	- List
 	- Sets
 	- Maps
